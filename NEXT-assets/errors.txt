@@ -1,0 +1,6 @@
+[2018-06-17 10:43:51] layer "+1 8674 948 94 2": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-06-17 10:43:51] layer "info@sitename.ru": Unsupported extension: ru
+[2018-06-17 10:43:50] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-06-17 10:43:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-06-17 10:43:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-06-17 10:43:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
